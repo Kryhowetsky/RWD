@@ -189,7 +189,8 @@ body {
         margin-top: 0;
     }
     .yellow-container {
-        margin-right: 0;
+       margin-right: -20px;
+
     }
     .block {
         padding-left: 0;
